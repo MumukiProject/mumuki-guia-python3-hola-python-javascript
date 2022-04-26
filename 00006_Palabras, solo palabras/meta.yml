@@ -11,5 +11,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "'Mariposa'"
+  output: '"Mariposa"'
 name: Palabras, solo palabras
