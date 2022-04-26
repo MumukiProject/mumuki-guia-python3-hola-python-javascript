@@ -4,12 +4,12 @@ A diferencia de los operadores que vimos hasta acá, estos funcionan un poco dis
 
 > Probá en la consola las siguientes operaciones y fijate qué devuelve, o retorna, cada una:
 >
-``` python
-ム abs(-123) 
-ム round(4.3)
-ム max(8, 7)
-ム min(8, 7)
+``` javascript
+ム Math.abs(-123) 
+ム Math.round(4.3)
+ム Math.max(8, 7)
+ム Math.min(8, 7)
 ```
-> ¿Qué pasará si hacemos `abs` con un número positivo?¿`round(4.6)` dará lo mismo?
+> ¿Qué pasará si hacemos `Math.abs` con un número positivo?¿`Math.round(4.6)` dará lo mismo?
 >
 > Si no descubrís qué hace cada una, podés probar con otros valores.
