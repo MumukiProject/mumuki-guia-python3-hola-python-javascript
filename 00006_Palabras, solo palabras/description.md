@@ -1,4 +1,4 @@
-Ya conocimos a los números y a los booleanos de Python, ¡pero eso no es todo!
+Ya conocimos a los números y a los booleanos de JavaScript, ¡pero eso no es todo!
 
 Muchas veces queremos escribir programas que trabajen con texto :page_facing_up:: queremos saber cuántas palabras hay en un libro, o convertir minúsculas a mayúsculas, o saber en qué parte de un texto está otro.
 
@@ -12,21 +12,21 @@ Como se observa, todos los strings están encerrados entre comillas simples o do
 
 ¿Y qué podemos hacer con los strings? Por ejemplo, compararlos, como a cualquier otro valor:
 
-```python
-ム "hola" == "Hola"
-False
+```javascript
+ム "hola" === "Hola"
+false
 
-ム "todo el mundo" == "todo el mundo"
-True
+ム "todo el mundo" === "todo el mundo"
+true
 ```
 
 y también concatenarlos, es decir, obtener un string a partir de la unión de otros. :chains:
 
 > Probá en la consola lo siguiente:
 >
-``` python
+``` javascript
 ム "guarda" + "polvos"
 ム "Hola, " + "¿cómo estás?"
-ム "Dame " + str(5)
+ム "Dame " + 5
 ム 'Mari' + 'posa'
 ```
