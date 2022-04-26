@@ -18,4 +18,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: En la picadura de serpiente que sufrió el creador.
   checked: false
-name: El sentido de Python
+name: El sentido de JavaScript
