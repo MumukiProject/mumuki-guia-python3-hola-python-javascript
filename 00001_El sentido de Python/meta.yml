@@ -1,0 +1,21 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En el lenguaje de programación _Cobra_.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En los humoristas británicos _Monty Python_.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En la picadura de serpiente que sufrió el creador.
+  checked: false
+name: El sentido de Python

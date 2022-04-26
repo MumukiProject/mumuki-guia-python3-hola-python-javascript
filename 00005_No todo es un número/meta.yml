@@ -1,0 +1,14 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: 0
+type: interactive
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices: []
+goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  kind: last_query_matches
+  regexp: 8[ ]*!=[ ]*8
+name: No todo es un número
