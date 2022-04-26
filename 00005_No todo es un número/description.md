@@ -2,7 +2,7 @@ Pero los operadores no solo nos sirven para obtener números a partir de otros, 
 
 > Probá lo siguiente en la consola:
 >
-``` python
+``` javascript
 ム 10 > 9
 ム 11 >= 11
 ム 87 < 87
