@@ -1,3 +1,3 @@
-En esta lección conoceremos algunos de los tipos de datos más comunes de JavaScript :snake: , un lenguaje multipróposito muy usado en la actualidad. También conoceremos a la consola :desktop: , la herramienta que nos permitirá probar las operaciones que más utilizaremos a lo largo de todo el recorrido.
+En esta lección conoceremos algunos de los tipos de datos más comunes de JavaScript, un lenguaje multipróposito muy usado en la actualidad. También conoceremos a la consola :desktop: , la herramienta que nos permitirá probar las operaciones que más utilizaremos a lo largo de todo el recorrido.
 
 ¡Comencemos! :star_struck:
