@@ -10,12 +10,12 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: En el lenguaje de programación _Cobra_.
-  checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: En los humoristas británicos _Monty Python_.
+  value: En el lenguaje de programación _Java_.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: En la picadura de serpiente que sufrió el creador.
+  value: En el personaje de _Star Wars_, Jabba el hutt.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En la Isla de Java.
   checked: false
 name: El sentido de JavaScript

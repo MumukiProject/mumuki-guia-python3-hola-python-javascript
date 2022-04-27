@@ -1,1 +1,1 @@
-El lenguaje de programación Cobra existe, pero es muy posterior a Python. Por otro lado, no sabemos si hubo una picadura de serpiente :stuck_out_tongue:, pero el motivo oficialmente reconocido es el show de Monty Python. :joy:
+Si bien son dos lenguajes de programación distintos, al momento de su lanzamiento el parecido de sus nombres generó confusión. Incluso se comenta que fue una estrategia comercial para posicionar JavaScript en el mercado. :shushing_face:
