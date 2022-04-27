@@ -1,5 +1,5 @@
-Cuando programamos, a veces queremos hacer aclaraciones o comentarios en nuestro código. En JavaScript tenemos una forma de indicar cuando estamos escribiendo un comentario. ¿Cómo? :thinking: 
+Cuando programamos, podemos querer comentar o hacer aclaraciones en nuestro código. En JavaScript, como en la mayoría de los lenguajes, tenemos una forma de hacerlo...
 
-> ¡Probá esto en la consola y averigualo!
+> ¡Probá esto en la consola y fijate que pasa!
 >
 > `ム 2 * 3 //¿Esto será 6 o llueve?`
