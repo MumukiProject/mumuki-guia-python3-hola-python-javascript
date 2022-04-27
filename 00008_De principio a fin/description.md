@@ -4,7 +4,7 @@ La sintaxis de estas operaciones es _muyy_ parecida a lo que venimos haciendo. P
 
 > Probalas en la consola escribiendo:
 >
-``` javasript
+``` javascript
 ム "Fundación e imperio".startsWith("Fundación")
 ム "Bueno, y sí".endsWith("y sí")
 ム "Hola, ¿qué tal?".endsWith( "Hola")
