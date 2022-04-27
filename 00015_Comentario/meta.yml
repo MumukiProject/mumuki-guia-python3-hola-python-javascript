@@ -11,5 +11,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
-  regexp: 2\W**3\W*#
+  regexp: 2\W**3\W*//
 name: Comentario
