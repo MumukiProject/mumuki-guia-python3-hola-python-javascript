@@ -3,8 +3,8 @@ Muchas veces nos va a interesar saber el largo de un string, o en otras palabras
 > Veámoslo funcionando en la consola probando:
 >
 ``` javascript
-ム 'prosopopeya'.length()
-ム "Buenos días a todo el mundo".length()
-ム '¿No tenés 5 minutos?'.length()
+ム 'prosopopeya'.length
+ム "Buenos días a todo el mundo".length
+ム '¿No tenés 5 minutos?'.length
 ```
 > ¿Te animás a pensar qué va a devolver cada caso antes de probarlo?
