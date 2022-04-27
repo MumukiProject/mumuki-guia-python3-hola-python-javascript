@@ -5,5 +5,5 @@ Otro famoso operador lógico es el `||` que sirve para realizar disyunciones ló
 ``` javascript
 ム "HOLA".toLowerCase() === "hola" || "adiós".toLowerCase() === "adiós"
 ム "hola".length > 5 || Math.abs(-5) === 5
-ム "mumuki".toUpperCase() === "Mumuki" || "romance".includes(“amor”)
+ム "mumuki".toUpperCase() === "Mumuki" || "romance".includes("amor")
 ```
