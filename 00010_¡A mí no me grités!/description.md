@@ -9,6 +9,5 @@ Por suerte en la contracara tenemos a las calmas minúsculas. En JavaScript pode
 ム 'ya bajamos el volumen'.toLowerCase()
 ム '¡Ahora sí!'.toUpperCase()
 ム 'NECESITO MAYÚSCULAS MÁS GRANDES'.toUpperCase()
-
 ```
 > ¿Te imaginás qué va a pasar en cada caso?
