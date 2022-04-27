@@ -18,4 +18,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: En la Isla de Java.
   checked: false
-name: El sentido de JavaScript
+name: "¡Ya va Script!"
