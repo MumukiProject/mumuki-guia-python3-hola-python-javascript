@@ -7,6 +7,6 @@ Ya estuvimos probando operaciones de números y de strings, ¿los booleanos se p
 ``` javascript
 ム "hola".length == "chau".length && "blanco".length == "negro".length
 ム 8 < 10 && 8 > 9
-ム "caracol".startsWith("cara") && “caracol”.endsWith("col")
+ム "caracol".startsWith("cara") && "caracol".endsWith("col")
 ```
 > Fijate si detectas algún patrón.
