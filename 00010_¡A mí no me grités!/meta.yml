@@ -11,5 +11,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "'NECESITO MAYÚSCULAS MÁS GRANDES'"
+  output: '"NECESITO MAYÚSCULAS MÁS GRANDES"'
 name: "¡A mí no me grités!"
