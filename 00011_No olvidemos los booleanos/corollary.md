@@ -1,20 +1,20 @@
 ¿Descubriste el patrón? :grimacing:
 
-Para que `and` retorne `True` es necesario que ambas condiciones sean verdaderas. Por eso...
+Para que `&&` retorne `true` es necesario que ambas condiciones sean verdaderas. Por eso...
 
-``` python
+``` javascript
 ム 8 < 10 and 8 > 9
 ```
 
-... retorna `False`, porque 8 es menor a 10 pero no es mayor a 9. Dicho de otra forma, `8 < 10` es `True` pero `8 > 9` es `False`. En cambio al probar...
+... retorna `false`, porque 8 es menor a 10 pero no es mayor a 9. Dicho de otra forma, `8 < 10` es `true` pero `8 > 9` es `false`. En cambio al probar...
 
-``` python
-ム str.startswith("caracol", "cara") and str.endswith("caracol", "col")
+``` javascript
+ム "caracol".startsWith("cara") && “caracol”.endsWith("col")
 ```
 
-... obtenemos `True`, dado que ambas condiciones son verdaderas. En resumen:
+... obtenemos `true`, dado que ambas condiciones son verdaderas. En resumen:
 
-```python
+```javascript
 ム False and False
 False
 ム True and False
