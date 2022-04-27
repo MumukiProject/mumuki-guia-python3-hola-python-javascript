@@ -5,5 +5,5 @@ Cuando trabajamos con _strings_ también podemos saber si uno contiene a otro ut
 ``` javascript
 ム "amor".includes("celos")
 ム "placer".includes("dolor")
-ム "historia".includes("prehistoria")
+ム "prehistoria".includes("historia")
 ```
