@@ -15,14 +15,14 @@ Para que `&&` retorne `true` es necesario que ambas condiciones sean verdaderas.
 ... obtenemos `true`, dado que ambas condiciones son verdaderas. En resumen:
 
 ```javascript
-ム False and False
-False
-ム True and False
-False
-ム False and True
-False
-ム True and True
-True
+ム false && false
+false
+ム true && false
+false
+ム false && true
+false
+ム true && true
+true
 ```
 
 
