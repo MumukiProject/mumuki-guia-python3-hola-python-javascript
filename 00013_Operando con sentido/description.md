@@ -4,7 +4,7 @@
 |---------------|-------------------------|----------|--------------------------------|
 |Números        |cantidades               | `4947`   | `+`, `-`, `*`, `/`, `<`, etc .  |
 |Booleanos      |valores de verdad        | `true`   | `&&`, `||`, etc.
-|Strings        |texto                    | `"¡hola JavaScript!"` | ``, `startsWith`, `length` |
+|Strings        |texto                    | `"¡hola JavaScript!"` | `toUpperCase`, `startsWith`, `length` |
 
 
 Además, existen operaciones que sirven para todos los _tipos de datos_, por ejemplo:
