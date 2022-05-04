@@ -7,5 +7,5 @@ La sintaxis de estas operaciones es _muyyy_ parecida a lo que venimos haciendo. 
 ``` javascript
 ム "Fundación e imperio".startsWith("Fundación")
 ム "Bueno, y sí".endsWith("y sí")
-ム "Hola, ¿qué tal?".endsWith( "Hola")
+ム "Hola, ¿qué tal?".endsWith("Hola")
 ```
