@@ -2,7 +2,7 @@ Una de las tantas cosas que podemos hacer con JavaScript es cálculos matemátic
 
 Para estos cálculos usaremos la *consola*, una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo. La podés reconocer fácilmente porque arranca con el chirimbolito `ム`, que se llama _[prompt](https://es.wikipedia.org/wiki/Prompt)_.
 
-> ¡Empecemos a probar! Escribí al lado del ム lo siguiente:
+> ¡Empecemos a probar! Escribí al lado del ム lo siguiente en orden:
 >
 > ```javascript
 ム 2 * 3
