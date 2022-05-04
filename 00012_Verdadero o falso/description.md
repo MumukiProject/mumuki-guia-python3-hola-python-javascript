@@ -1,4 +1,4 @@
-Otro famoso operador lógico es el `||` que sirve para realizar disyunciones lógicas. El "O lógico" tiene sus diferencias con el `&&`, ¿te animás a descubrirlas? :hugging:
+Otro famoso operador lógico es el `||` que sirve para realizar disyunciones lógicas. El "O lógico", u _or_, tiene sus diferencias con el `&&`, ¿te animás a descubrirlas? :hugging:
 
 > Hacé las siguientes pruebas en la consola:
 >
