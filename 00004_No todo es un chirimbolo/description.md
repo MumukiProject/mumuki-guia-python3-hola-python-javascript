@@ -2,7 +2,7 @@
 
 A diferencia de los operadores que vimos hasta acá, estos funcionan un poco distinto. Les específicamos los valores de entrada, llamados *argumentos*, entre paréntesis y a partir de ellos nos da un valor de salida, conocido como *retorno*.
 
-> Probá en la consola las siguientes operaciones y fijate qué devuelve, o retorna, cada una:
+> Probá en la consola las siguientes operaciones en orden y fijate qué devuelve, o retorna, cada una:
 >
 ``` javascript
 ム Math.abs(-123) 
