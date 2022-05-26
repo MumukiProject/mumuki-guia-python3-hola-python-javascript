@@ -4,8 +4,14 @@ La sintaxis de estas operaciones es _muyyy_ parecida a lo que venimos haciendo. 
 
 > Probalas en la consola escribiendo:
 >
-``` javascript
+>``` javascript
 ム "Fundación e imperio".startsWith("Fundación")
+```
+>
+>``` javascript
 ム "Bueno, y sí".endsWith("y sí")
+```
+>
+>``` javascript
 ム "Hola, ¿qué tal?".endsWith("Hola")
 ```
