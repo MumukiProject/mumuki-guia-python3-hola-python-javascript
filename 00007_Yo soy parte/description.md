@@ -2,8 +2,14 @@ Cuando trabajamos con _strings_ también podemos saber si uno contiene a otro ut
 
 > Para verlo en práctica, escribí lo siguiente en la consola:
 >
-``` javascript
+>``` javascript
 ム "amor".includes("celos")
+```
+>
+>``` javascript
 ム "placer".includes("dolor")
+```
+>
+>``` javascript
 ム "prehistoria".includes("historia")
 ```
