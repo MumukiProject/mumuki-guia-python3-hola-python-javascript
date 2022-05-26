@@ -4,10 +4,19 @@ A diferencia de los operadores que vimos hasta acá, estos funcionan un poco dis
 
 > Probá en la consola las siguientes operaciones en orden y fijate qué devuelve, o retorna, cada una:
 >
-``` javascript
+> ``` javascript
 ム Math.abs(-123) 
+```
+>
+> ``` javascript
 ム Math.round(4.3)
+```
+>
+> ``` javascript
 ム Math.max(8, 7)
+```
+>
+> ``` javascript
 ム Math.min(8, 7)
 ```
 > ¿Qué pasará si hacemos `Math.abs` con un número positivo?¿`Math.round(4.6)` dará lo mismo?
