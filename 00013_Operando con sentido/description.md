@@ -16,11 +16,23 @@ Además, existen operaciones que sirven para todos los _tipos de datos_, por eje
 
 > Probá en la consola lo siguiente:
 >
-``` javascript
+>``` javascript
 ム 5 + 6
+```
+>
+>``` javascript
 ム 5 === "5"
+```
+>
+>``` javascript
 ム 8 > 6
+```
+>
+>``` javascript
 ム false / true
+```
+>
+>``` javascript
 ム 'hola' || 'chau'
 ```
 > ¿Todas estas operaciones tienen sentido?
