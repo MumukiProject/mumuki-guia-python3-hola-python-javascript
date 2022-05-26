@@ -24,9 +24,18 @@ y también concatenarlos, es decir, obtener un string a partir de la unión de o
 
 > Probá en la consola lo siguiente:
 >
-``` javascript
+> ```javascript
 ム "guarda" + "polvos"
+```
+>
+> ```javascript
 ム "Hola, " + "¿cómo estás?"
+```
+>
+> ```javascript
 ム "Dame " + 5
+```
+>
+> ```javascript
 ム 'Mari' + 'posa'
 ```
