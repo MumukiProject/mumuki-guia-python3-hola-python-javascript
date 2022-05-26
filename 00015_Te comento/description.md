@@ -2,4 +2,6 @@ Cuando programamos, podemos querer comentar o hacer aclaraciones en nuestro cód
 
 > ¡Probá esto en la consola y fijate que pasa!
 >
-> `ム 2 * 3 //¿Esto será 6 o llueve?`
+> ```javascript
+ム 2 * 3 //¿Esto será 6 o llueve?
+```
