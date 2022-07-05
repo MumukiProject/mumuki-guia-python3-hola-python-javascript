@@ -3,7 +3,7 @@
 |  Tipo de dato |  Representa             |  Ejemplo |  Operaciones                   |
 |---------------|-------------------------|----------|--------------------------------|
 |Números        |cantidades               | `4947`   | `+`, `-`, `*`, `/`, `<`, etc .  |
-|Booleanos      |valores de verdad        | `true`   | `&&`, etc. |
+|Booleanos      |valores de verdad        | `true`   | `&&`, <code>&#124;&#124;</code> , etc. |
 |Strings        |texto                    | `"¡hola JavaScript!"` | `toUpperCase`, `startsWith`, `length` |
 
 
