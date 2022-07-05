@@ -1,4 +1,4 @@
-En programación a estos chirimbolos que utiizamos para hacer cálculos se los llaman _operadores_ y se escriben ligeramente diferentes:
+En programación a estos chirimbolos que utilizamos para hacer cálculos se los llaman _operadores_ y se escriben ligeramente diferentes:
 
 |Operación	     | Operador  | Ejemplo  | 
 |-------------	 |----------	|-------  |
